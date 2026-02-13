@@ -13,5 +13,4 @@ Aspiring Data Analyst with experience in Excel, Power BI, SQL, and Python.
 Coming soon...
 
 ## 📫 Contact
-LinkedIn: 
 Email: seremtony65@gmail.com
