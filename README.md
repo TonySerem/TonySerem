@@ -10,7 +10,7 @@ Aspiring Data Analyst with experience in Excel, Power BI, SQL, and Python.
 - Python (Pandas, Matplotlib)
 
 ## 📊 Projects
-Adventure Works Sales Exel Analysis
+Adventure Works Sales Excel Analysis
 
 ## 📫 Contact
 Email: seremtony65@gmail.com
