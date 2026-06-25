@@ -12,6 +12,7 @@ Aspiring Data Analyst with experience in Excel, Power BI, SQL, and Python.
 ## 📊 Projects
 - Adventure Works Sales - Excel Analysis
 - Bank Loan Report - Excel Analysis
+- Bank Marketing Campaign Analysis - Excel
 
 ## 📫 Contact
 Email: seremtony65@gmail.com
